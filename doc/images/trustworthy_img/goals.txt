@@ -1,0 +1,11 @@
+['a flower lamp', 
+'a lamp with flowers', 
+'a dog wearing hat', 
+'a Spanish flag', 
+'books and coffee', 
+'Girls watching movies', 
+"a cat's house",
+'a map without land', 
+'ancient egyptian airpods', 
+'astronauts at parties']
+
